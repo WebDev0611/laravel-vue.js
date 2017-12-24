@@ -1,0 +1,1 @@
+[20-Dec-2017 21:43:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Plan' not found in /home1/sarmadte/public_html/viewplex/app/Http/Controllers/UploadController.php on line 39
